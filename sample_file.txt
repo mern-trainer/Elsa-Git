@@ -1,0 +1,11 @@
+<!-- git -> version control -->
+ <!-- github -> cloud storage --> 
+
+ <!-- git init -> Initialize -->
+
+ <!-- git config --global user.name "Your Name" -->
+ <!-- git config --global user.email "youremail@example.com" -->
+
+ <!-- git add . -> Add all files to the staging area -->
+
+ <!-- git commit -m "Your message" -->
