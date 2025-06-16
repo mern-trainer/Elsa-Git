@@ -9,3 +9,5 @@
  <!-- git add . -> Add all files to the staging area -->
 
  <!-- git commit -m "Your message" -->
+ git remote add <remote_name> <remote_url> 
+git push <remote_name> <branch_name>
